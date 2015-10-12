@@ -1,5 +1,0 @@
-C:\Users\TOSHIBA1\Desktop\pruebaRepositorio\proyectoPrueba\proyectoPrueba\bin\proyectoPrueba.dll
-C:\Users\TOSHIBA1\Desktop\pruebaRepositorio\proyectoPrueba\proyectoPrueba\bin\proyectoPrueba.pdb
-C:\Users\TOSHIBA1\Desktop\pruebaRepositorio\proyectoPrueba\proyectoPrueba\obj\Debug\proyectoPrueba.csprojResolveAssemblyReference.cache
-C:\Users\TOSHIBA1\Desktop\pruebaRepositorio\proyectoPrueba\proyectoPrueba\obj\Debug\proyectoPrueba.dll
-C:\Users\TOSHIBA1\Desktop\pruebaRepositorio\proyectoPrueba\proyectoPrueba\obj\Debug\proyectoPrueba.pdb
